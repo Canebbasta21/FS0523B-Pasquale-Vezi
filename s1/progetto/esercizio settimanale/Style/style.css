@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/*immagini*/
+img{
+  max-width: 100%;
+  max-width: 100%;
+  text-align: center;
+ ;
+}
+.immagini{
+  background-color: black;
+    text-align: left;
+    padding-bottom: 70px;
+    padding-top: 50px;
+    
+    }
+    body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFFFFF;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.8rem;
+  }
+  .immagine2{
+  border-radius: 70%;
+  margin:40px;
+  text-align: center;
+  margin-bottom: auto;
+  border-top: 10px; }
+  
+  .prossimeimmagini{
+    border-top: 40px ;
+
+  }
+  #pc{
+   width: 80%;
+   height: 80%;
+   border: 1px solid #cfcdcdd7; 
+   margin-top: 60px;
+   margin-right: 60px;
+   margin-left: 60px;
+   padding: 5px;
+   border-radius: 2%;
+  }
+
+  
+  /*h1*/
+    h1{
+    font-family: 'Open Sans', sans-serif;
+     font-weight: 1000;
+     margin-top: 30px;
+    color: #2d9bca;
+    font-size:2rem;
+    line-height: 3rem;
+    margin-bottom: 20px;
+    text-align: center;
+   }
+   h2{
+    font-family: 'Open Sans', sans-serif;
+       font-weight: 1000;
+       margin-top: 30px;
+      color: #ffffff;
+      font-size:2rem;
+      line-height: 3rem;
+      margin-bottom: 20px;
+      text-align: center;
+      margin-top: 30px;
+    }
+    
+    
+    #garantisce{
+      background-color: #ed220d;
+     background-size: contain;
+      border-bottom: 10px;
+      margin-top: 40px;
+      padding-top: 30px;
+    }
+    #mesi{
+      color: #ffffff;
+      padding-bottom: 10px;
+      font-style: italic;
+    }
+   .mario{
+    color: #ffffff;
+   }
+    #paragrafi{
+      margin: 15px;
+      }
+      #ultimep{
+        margin-bottom:80px;
+      }
+    /*tasto*/
+.btn{
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    color: #FFFFFF;
+    text-decoration: none;
+    line-height: 1.2;
+    font-weight: normal;
+    font-family: sans-serif;
+    font-size: 18px;
+    background-color: #FF3826;
+    border-radius: 9px;
+    padding: 16px 37px;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+   }
+   #contenitore{
+    background-color: #FFFFFF;
+   }
+   #sfondo{
+    background-image: url(../Img/banner.jpg);
+     padding-top: 100px;
+     padding-bottom: 100px;
+   }
+    /*paragrafo*/
+   p{
+    text-align: center;
+
+   }
+   #ultimemod{
+   margin-bottom: 30px;
+   }
+   #fine
+   {
+  margin-top: 50px;
+  background-color: #2d9bca;
+  color: #ffffff;
+  padding-top: 30px;
+  text-decoration: none;
+  text-align: center;
+  padding-bottom: 40px;
+  text-decoration: none;
+}
+.quasifine{
+  background-color: #2d9bca;
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+  
+ 
+ 

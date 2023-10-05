@@ -1,0 +1,43 @@
+.container {
+text-align: center;
+}
+
+.container img {
+    width: 400px;
+    height: 90px;
+}
+.verde{
+color: #065150;
+text-align: center;
+font-style: bold;
+background-color: #fdfbf1;
+}
+.titolo1{
+   text-align: center; 
+   line-height: 200px; 
+  }
+
+.container2{
+    width: 15s0px;
+    height: 15s0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titolo4{
+text-align:center ;
+color: #9d9d9d;
+}
+
+.hr2{
+    
+color: #002df8;
+background: #002df8;
+border: 0;
+height: 1px;
+
+}
+#contenitore{
+    width:800px;
+    margin: 0 auto;
+}
