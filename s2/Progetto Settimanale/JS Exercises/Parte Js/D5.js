@@ -113,14 +113,13 @@ const numericArray = [
     dell'alfabeto italiano.
     es. [f, b, e] --> [6, 2, 5]
 */
-const charactersArray = ['g', 'n', 'u', 'z', 'd']
-const numbersArray = [];
-for (let i = 0; i < charactersArray.length; i++) {
-  numbersArray.push(generateNumberFromCharacter(charactersArray[i]));
+const numeriArray = [];
+for (let i = 0; i < lettereArray.length; i++) {
+  lettereArray.push(numerinlettere(lettereArray[i]));
 }
-console.log('Da', charactersArray, 'a', numbersArray);
+console.log('Da', lettereArray, 'a', lettereArray);
 
-function generateNumberFromCharacter(character) {
+function numerinlettere(character) {
   switch (character) {
     case 'a': return 1
     case 'b': return 2
@@ -150,3 +149,4 @@ function generateNumberFromCharacter(character) {
     case 'z': return 26
     default: return 0
   }
+}
