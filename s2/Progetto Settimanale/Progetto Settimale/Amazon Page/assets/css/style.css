@@ -1,6 +1,4 @@
-/* General settings */
-
-* {
+{
     box-sizing: border-box;
 }
 
@@ -235,5 +233,4 @@ h2 {
 }
 
 .lg-shadow {
-    box-shadow: 5px 5px 4px rgba(213, 213, 213, .3);
-}
+    box-shadow: 5px 5px 4px rgba(213, 213, 213, .3) }
